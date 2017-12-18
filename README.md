@@ -10,5 +10,7 @@ The goal of this project is to have a clean Travis CI build of this R package, w
  * Function complexity: minimal
  * Tests: minimal
  * Documentation: minimal function description
- * Vignettes: yes
+ * Vignettes: yes, one with a picture
  * Rcpp: no
+
+![Vignette with picture](vignette.png)
